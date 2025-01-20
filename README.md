@@ -1,5 +1,4 @@
-  <div class="description user_content "><div id="bootcamp">
-<img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m14/lms/img/banner.jpg" alt="lesson banner">
+
     <h3>Background</h3>
     <p>In this assignment, you will build an interactive dashboard to explore the <a href="http://robdunnlab.com/projects/belly-button-biodiversity/">Belly Button Biodiversity dataset</a>, which catalogs the microbes that colonize human navels.</p>
     <p>The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.</p>
